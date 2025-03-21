@@ -1,13 +1,13 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
+  "name": "Jacob Ophoven",
+  "label": "Programmer",
   "image_path": "img/default-image.png",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "jacobophoven777@gmail.com",
+    "phone": "612-558-4989",
+    "location": "Minnesota, United States"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "A young programming hobbyist with 5 years of experience including AI with Python, Games with Luau, and FTC Robotics with Java.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -21,66 +21,29 @@
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "Github",
+      "url": "https://github.com/Py-mon",
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "FTC Robotics - Team Frozen Code",
+      "position": "Lead Programmer & Portfolio Designer",
+      "url": "https://www.firstinspires.org/robotics/ftc",
+      "start_date": "07/07/2024",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Lead a first-year robotics team to State Championships.",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
-      ]
-    },
-    {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
-      "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Developed a mecanum wheel path-following framework",
+        "Programmed robot controls",
+        "Designed an award-winning portfolio"
       ]
     }
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
-      "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
-      ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
-        }
-      ]
-    },
-    {
-      "title": "My Second Project",
+      "title": "Neural Network Exploration",
       "summary": "Short summary about my second project",
       "url": "https://sample.com",
       "highlights": [
@@ -134,17 +97,17 @@
   ],
   "education": [
     {
-      "institution": "Institution One",
+      "institution": "UCA",
       "location": "Institution One Location",
       "url": "https://sample.com",
       "degrees": [
-        "Master of Science in Computer Science",
+        "Bachelor of Software Engineering",
         "Minor in Mathematics"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "honors": ["High School Science Fair Winner"],
+      "gpa_cumulative": "4.0",
+      "gpa_major": "_",
+      "graduation_date": "05/01/2026"
     },
     {
       "institution": "Institution Two",
@@ -159,19 +122,24 @@
   ],
   "skills": [
     {
-      "name": "My First Skill",
+      "name": "Python",
       "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "proficiency_label": "Advanced"
     },
     {
-      "name": "My Second Skill",
-      "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
+      "name": "Java",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Luau",
+      "proficiency": 70,
+      "proficiency_label": "Proficient"
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
+      "name": "Boys Volleyball",
       "summary": "Short summary about my first Hobby",
       "images": [
         {
@@ -185,8 +153,8 @@
       ]
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
+      "name": "Drumming",
+      "summary": "Percussion",
       "images": [
         {
           "img_path": "https://picsum.photos/600/338?random=9",
@@ -197,28 +165,20 @@
           "caption": "Image Caption 10"
         }
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
-    }
-  ],
-  "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
-    }
+        "name": "Strategy Board Games",
+        "summary": "Love creating programs that predict the best moves.",
+        "images": [
+          {
+            "img_path": "https://picsum.photos/600/338?random=9",
+            "caption": "Image Caption 9"
+          },
+          {
+            "img_path": "https://picsum.photos/600/338?random=10",
+            "caption": "Image Caption 10"
+          }
+        ]
+      }
   ]
 }
