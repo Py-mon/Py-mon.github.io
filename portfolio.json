@@ -28,16 +28,17 @@
   ],
   "work_experience": [
     {
-      "company": "FTC Robotics - Team Frozen Code",
+      "company": "FTC Robotics Team, Frozen Code",
       "position": "Lead Programmer & Portfolio Designer",
       "url": "https://www.firstinspires.org/robotics/ftc",
       "start_date": "07/07/2024",
       "end_date": "Present",
-      "summary": "Lead a first-year robotics team to State Championships.",
+      "summary": "Lead a first-year robotics team to State Championships through developing our own path-following system and portfolio.",
       "highlights": [
         "Developed a mecanum wheel path-following framework",
-        "Programmed robot controls",
-        "Designed an award-winning portfolio"
+        "Programmed simultaneous robot controls",
+        "Designed an award-winning portfolio",
+        "Finalist for Think Award at state"
       ]
     }
   ],
@@ -50,6 +51,29 @@
         "First Highlight of Project Two",
         "Second Highlight of Project Two",
         "Third Highlight of Project Two"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=4",
+          "caption": "Image Caption 4"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=5",
+          "caption": "Image Caption 5"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=6",
+          "caption": "Image Caption 6"
+        }
+      ]
+    },
+    {
+      "title": "Class Scheduler",
+      "summary": "Takes classrooms, teachers, and courses to create a class schedule, where there are no conflicts.",
+      "url": "https://github.com/Py-mon/Class-Scheduler",
+      "highlights": [
+        "Commissioned by my high school",
+        "Used Python to parse a database and come up with class schedule based off specific requirements."
       ],
       "images": [
         {
@@ -98,33 +122,20 @@
   "education": [
     {
       "institution": "UCA",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
-      "degrees": [
-        "Bachelor of Software Engineering",
-        "Minor in Mathematics"
-      ],
+      "location": "Bloomington",
+      "url": "https://www.ucathunder.org",
+      "degrees": ["Bachelor of Software Engineering", "Minor in Mathematics"],
       "honors": ["High School Science Fair Winner"],
       "gpa_cumulative": "4.0",
       "gpa_major": "_",
       "graduation_date": "05/01/2026"
-    },
-    {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
     }
   ],
   "skills": [
     {
       "name": "Python",
-      "proficiency": 100,
-      "proficiency_label": "Advanced"
+      "proficiency": 95,
+      "proficiency_label": "Expert"
     },
     {
       "name": "Java",
@@ -133,8 +144,13 @@
     },
     {
       "name": "Luau",
-      "proficiency": 70,
+      "proficiency": 75,
       "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Typing Speed 80-100 WPM",
+      "proficiency": 95,
+      "proficiency_label": "Top 5% for age"
     }
   ],
   "interests": [
@@ -143,42 +159,40 @@
       "summary": "Short summary about my first Hobby",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
+          "img_path": "https://cdn1.sportngin.com/attachments/photo/a9a3-176093949/i-bTvd7sG-X3_large.jpg",
+          "caption": ""
         }
       ]
     },
     {
-      "name": "Drumming",
-      "summary": "Percussion",
+      "name": "Drumming for Chapel",
+      "summary": "Worship Arts Chapel",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
+          "img_path": "https://drive.usercontent.google.com/download?id=1b-0yDyxeFEd6t5BRnkkdbe6rvrESrsCk",
+          "caption": ""
         }
       ]
     },
     {
-        "name": "Strategy Board Games",
-        "summary": "Love creating programs that predict the best moves.",
-        "images": [
-          {
-            "img_path": "https://picsum.photos/600/338?random=9",
-            "caption": "Image Caption 9"
-          },
-          {
-            "img_path": "https://picsum.photos/600/338?random=10",
-            "caption": "Image Caption 10"
-          }
-        ]
-      }
+      "name": "Band",
+      "summary": "Play all sorts of percussion instruments",
+      "images": [
+        {
+          "img_path": "https://core-docs.s3.amazonaws.com/united_christian_academy_ar/live_feed_image/image/14213028/large_Screenshot_2025-03-03_at_11.26.24_AM.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "Strategy Board Games",
+      "summary": "Love creating programs that predict the best moves.",
+      "images": [
+        {
+          "img_path": "https://www.shutupandsitdown.com/wp-content/uploads/2017/07/Sagrada4.jpg",
+          "caption": ""
+        }
+      ]
+    }
   ]
 }
