@@ -4,22 +4,11 @@
   "image_path": "img/default-image.png",
   "contact": {
     "email": "jacobophoven777@gmail.com",
-    "phone": "612-558-4989",
     "location": "Minnesota, United States"
   },
   "summary": "A young programming hobbyist with 5 years of experience including AI with Python, Games with Luau, and FTC Robotics with Java.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
-    {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
-      "svg_path": "img/linkedin.svg"
-    },
     {
       "label": "Github",
       "url": "https://github.com/Py-mon",
@@ -39,7 +28,13 @@
         "Programmed simultaneous robot controls",
         "Designed an award-winning portfolio",
         "Finalist for Think Award at state"
-      ]
+      ],
+      "images": [
+        {
+            "img_path": "https://media.discordapp.net/attachments/1282016908434083950/1337948836643082331/image.png?ex=67deb234&is=67dd60b4&hm=6b756f29695eb7f95a6c55471bbeb659a5d6c2281b7ca045c9da07ba07d0fddc&=&format=webp&quality=lossless",
+            "caption": "Team Frozen Code"
+        }
+    ]
     }
   ],
   "projects": [
@@ -58,7 +53,7 @@
           "caption": "Science Fair Tri-fold"
         },
         {
-          "img_path": "https://github.com/PythonDomiator/Neural-Network/assets/102424561/5a6862d4-efbe-4b97-a470-67fa19d07c1b",
+          "img_path": "https://github.com/PythonDominator/Neural-Network/assets/102424561/5895d3b1-c883-4600-8d80-cd793e6baba4",
           "caption": "Interactive Visualization"
         },
         {

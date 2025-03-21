@@ -130,6 +130,19 @@
                       {% for highlight in job.highlights %}<li>{{ highlight }}</li>{% endfor %}
                     </ul>
                   {% endif %}
+                  {% if job.images %}
+                    <div class="gallery main-gallery">
+                      {% for img in job.images %}
+                        <figure>
+                          <img width="600"
+                               height="338"
+                               src="{{ img.img_path }}"
+                               alt="{{ img.caption }}">
+                          <figcaption>{{ img.caption }}</figcaption>
+                        </figure>
+                      {% endfor %}
+                    </div>
+                  {% endif %}
                 </section>
               {% endfor %}
             </section>
